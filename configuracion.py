@@ -1,0 +1,23 @@
+from collections import namedtuple
+
+TAMANNO_LETRA = 20
+FPS_inicial = 3
+TIEMPO_MAX = 61
+
+## Declaramos tres constantes mas: VSPEED, BOTTOMCLEAR, ORIGIN, COLOR_TEXTO_FINAL, COLOR_LETRAS_FINAL
+
+VSPEED = 15
+BOTTOMCLEAR = 510
+ORIGIN = 35
+ANCHO = 800
+ALTO = 600
+COLOR_LETRAS = (20,200,20)
+COLOR_FONDO = (0,0,0)
+COLOR_TEXTO = (200,200,200)
+COLOR_TIEMPO_FINAL = (200,20,10)
+COLOR_TEXTO_FINAL = (255, 255, 255)
+COLOR_LETRAS_FINAL = (200, 200, 10)
+Punto = namedtuple('Punto','x y')
+
+
+
