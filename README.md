@@ -4,6 +4,7 @@
 	
 	Creado en equipo con 2 compañeros, utilizando pair programing en lenguaje Python.
 	
-	El TP consistia en desarrollar un juego donde el usuario tiene que unir letras que caen en pantalla para formar palabras que se validan segun un lemario.
+	El TP consistia en desarrollar un juego donde el usuario tiene que unir letras que caen en pantalla 
+	para formar palabras que se validan segun un lemario.
   
   Nota final: 9.
